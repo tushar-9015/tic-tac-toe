@@ -1,0 +1,12 @@
+.square {
+  min-width: 40px;
+  min-height: 40px;
+  display: grid;
+  place-items: center;
+  background-color: beige;
+  border: 2px solid black;
+}
+.board-row{
+  display: flex;
+
+}
